@@ -1,2 +1,2 @@
---pager=less
+--pager=less -R
 --ignore-file=is:tags
