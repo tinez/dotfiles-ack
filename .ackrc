@@ -1,2 +1,4 @@
---pager=less -R
 --ignore-file=match:c?tags
+--break
+--color
+--pager=less --long-prompt --no-init --no-lessopen --quiet --quit-if-one-screen --RAW-CONTROL-CHARS
