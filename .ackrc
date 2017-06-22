@@ -2,3 +2,4 @@
 --break
 --color
 --pager=less --long-prompt --no-init --no-lessopen --quiet --quit-if-one-screen --RAW-CONTROL-CHARS
+--type-add=meson:is:meson.build
